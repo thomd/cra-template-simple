@@ -22,12 +22,8 @@ createRoot(document.getElementById('root')).render(<StrictMode><App /></StrictMo
 
 `src/App.jsx`:
 
-```react
+```javascript
 export default function App() {
-  return (
-    <>
-      React
-    </>
-  )
+  return (<>React</>)
 }
 ```
