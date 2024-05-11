@@ -1,6 +1,6 @@
 {
   "name": "@thomd/cra-template-simple",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "simple starter template for create-react-app",
   "main": "template.json",
   "keywords": [
