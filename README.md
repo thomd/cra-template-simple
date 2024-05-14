@@ -1,6 +1,6 @@
 # Simple create-react-app Template
 
-A very simple starter template for [create-react-app](https://create-react-app.dev).
+A very simple starter template for [create-react-app](https://create-react-app.dev) if you want to try something out quickly.
 
 ```sh
 npx create-react-app myapp --template @thomd/cra-template-simple
